@@ -16,7 +16,17 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Praveen Soni</h1>
 <h3 align="center">Angular Architect</h3>
-
+<h3 align="center">
+  I have 5+ years of experience working with web technologies, specially angular & react in front end
+and python with GAE in backend.
+I started my journey with frontend just after my graduation,
+I worked with an education sector startup, I mostly worked on the LMS product,
+and also I lead a team of 4 people to architect second version of the product.
+currently I'm also working as Angular Architect and a11y as consultant at wipro.
+In web developent, I mostly like angular for its flexibility and scalibility.
+</h3>
+<link src="javascript:alert('Bazinga');"></link>
+<script>alert("hi")</script>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveeno&label=Profile%20views&color=0e75b6&style=flat" alt="praveeno" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveeno" alt="praveeno" /></a> </p>
