@@ -25,8 +25,7 @@ and also I lead a team of 4 people to architect second version of the product.
 currently I'm also working as Angular Architect and a11y as consultant at wipro.
 In web developent, I mostly like angular for its flexibility and scalibility.
 </h3>
-<link src="javascript:alert('Bazinga');"></link>
-<script>alert("hi")</script>
+<img src="javascript:alert('Bazinga');" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveeno&label=Profile%20views&color=0e75b6&style=flat" alt="praveeno" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveeno" alt="praveeno" /></a> </p>
