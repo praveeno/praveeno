@@ -17,13 +17,20 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Praveen Soni</h1>
 <h3 align="center">Angular Architect</h3>
 <h3 align="center">
-  I have 5+ years of experience working with web technologies, specially angular & react in front end
-and python with GAE in backend.
+  I have 5+ years of experience working with web technologies, architecturing Angular applications, handling javascript nuances perfectly, and exploring a different world with react & vue.
+recently I also fall in love with mobile development with flutter and dart, and its react alike concepts
+when not working I found myself either exploring rust or brushing up my guitar skills.
+
 I started my journey with frontend just after my graduation,
 I worked with an education sector startup, I mostly worked on the LMS product,
 and also I lead a team of 4 people to architect second version of the product.
 currently I'm also working as Angular Architect and a11y as consultant at wipro.
 In web developent, I mostly like angular for its flexibility and scalibility.
+
+Thanks & Regards
+Praveen Soni
+praveeno.pro@gmail.com
+https://www.linkedin.com/in/praveeno/
 </h3>
 <img src="javascript:alert('Bazinga');" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveeno&label=Profile%20views&color=0e75b6&style=flat" alt="praveeno" /> </p>
