@@ -1,59 +1,13 @@
-### Hi there 👋
-
-<!--
-**praveeno/praveeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Praveen Soni</h1>
 <h3 align="center">Angular Architect</h3>
-<h3 align="center">
-  I have 5+ years of experience working with web technologies, architecturing Angular applications, handling javascript nuances perfectly, and exploring a different world with react & vue.
-recently I also fall in love with mobile development with flutter and dart, and its react alike concepts <br/>
-when not working I found myself either exploring rust or brushing up my guitar skills.
 
-I started my journey with frontend just after my graduation,
-I worked with an education sector startup, I mostly worked on the LMS product,
-and also I lead a team of 4 people to architect second version of the product.
-currently I'm also working as Angular Architect and a11y as consultant at wipro.
-In web developent, I mostly like angular for its flexibility and scalibility.
-
-</h3>
-<img src="javascript:alert('Bazinga');" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveeno&label=Profile%20views&color=0e75b6&style=flat" alt="praveeno" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveeno" alt="praveeno" /></a> </p>
+- 🔭 I’m currently working on my personal website
+- 🌱 I’m currently learning machine learning
+- 👯 I’m looking to collaborate on youtube content creation
+- 💬 Ask me about javascript, angular, flutter
+- 📫 How to reach me: praveeno.pro@gmail.com
 
 <p align="left"> <a href="https://twitter.com/praveeno_pro" target="blank"><img src="https://img.shields.io/twitter/follow/praveeno_pro?logo=twitter&style=for-the-badge" alt="praveeno_pro" /></a> </p>
-
-- 🔭 I’m currently working on **A11y Web**
-
-- 🌱 I’m currently learning **rust**
-
-- 👯 I’m looking to collaborate on **Angular**
-
-- 🤝 I’m looking for help with **web3**
-
-- 👨‍💻 All of my projects are available at [None](None)
-
-- 📝 I regularly write articles on [blog](blog)
-
-- 💬 Ask me about **angular, react, flutter**
-
-- 📫 How to reach me **praveeno.pro@gmail.com**
-
-- 📄 Know about my experiences [resume](resume)
-
-- ⚡ Fun fact **life is illusion**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
